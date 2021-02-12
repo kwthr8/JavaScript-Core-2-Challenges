@@ -1,4 +1,4 @@
-function startGame() {}
+function startGame() { }
 
 function keyBoardEvents(e) {
   if (e.keyCode === 83) {
